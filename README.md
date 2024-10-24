@@ -2,7 +2,7 @@
 I'm Daniyal Shaikh, an MCA Engineering student with a passion for backend development and cloud technologies. 
 
 ### About me
-- 👨‍💻 Working on healthcare chatbot projects, utilizing modern web technologies and AI.
+- 👨‍💻 Currently working on healthcare chatbot project, utilizing modern web technologies and AI, with a focus on Python and Machine Learning.
 - 🚀 Currently learning Kotlin for Android development and Docker for containerization.
 - 🎯 Passionate about writing clean, scalable code and exploring new technologies to solve real-world problems.
 - ✨ Fun fact: I'm a huge fan of open-source contributions and love to learn through hands-on projects.
